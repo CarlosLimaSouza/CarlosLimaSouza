@@ -1,8 +1,6 @@
 ### Ola! Meu nome é Carlos,tenho 25 anos e sou desenvolvedor Front-end👋
-
 - 🔭 Em busca de emprego
-- 🌱 Estudando vue.js , Sass e bootstrap (além de reforçar html,css,js)
-- 📫 Veja mais sobre mim no meu portifolio.
+- 📫 Veja mais sobre mim no meu portifólio.
 
 <div align="center">
   <a href="https://github.com/CarlosLimaSouza">
