@@ -1,7 +1,7 @@
 ### Ola! Meu nome é Carlos,tenho 25 anos e sou desenvolvedor Front-end👋
 
-- 🔭 Atualmente estou em busca de emprego
-- 🌱 Atualmente aprendendo vue.js e reforçando minhas bases (html,css,js)
+- 🔭 Em busca de emprego
+- 🌱 Estudando vue.js , Sass e bootstrap (além de reforçar html,css,js)
 - 📫 Veja mais sobre mim no meu portifolio.
 
 <div align="center">
