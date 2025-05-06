@@ -1,5 +1,5 @@
-### Ola! Meu nome é Carlos,tenho 25 anos e sou desenvolvedor Front-end👋
-- 🔭 Em busca de emprego
+### Ola! Meu nome é Carlos,tenho 28 anos e sou desenvolvedor Full-Stack👋
+- 🔭 Eu gostava de resolver puzzles quando criança e encontrei uma profissão em que sou pago para isso!
 - 📫 Veja mais sobre mim no meu portifólio.
 
 <div align="center">
